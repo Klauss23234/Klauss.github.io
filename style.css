@@ -1,1 +1,36 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cigare Casa - L'Excellence du Cigare</title>
+    
+    <style>
+        /* Exemple minimal pour avoir un fond et des textes visibles */
+        body {
+            font-family: Georgia, serif;
+            background-color: #1a0f0a; /* fond sombre */
+            color: #e8d4b0;           /* texte clair */
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            padding: 20px;
+            text-align: center;
+            background-color: #2a1810;
+        }
+
+        h1 {
+            color: #d4af37;
+            font-size: 2em;
+        }
+
+        p {
+            font-size: 1.2em;
+        }
+
+        .container {
+            padding: 20px;
+        }
+    </style>
+</head>
 
